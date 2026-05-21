@@ -55,7 +55,7 @@
 
 ```bash
 # Clone or download the project
-git clone https://github.com/yourusername/attendx.git
+git clone https://github.com/Ali-Nawaz-devt/AttendX-Attendace-Management.git
 
 # Navigate to the project directory
 cd attendx
